@@ -4,4 +4,4 @@
 
 [GitLab calendar](https://gitlab.com/FromSi)
 
-<img src="http://fromsi.net:2004/gitlab/FromSi">
+<img src="http://git-calendar.fromsi.net/gitlab/FromSi">
