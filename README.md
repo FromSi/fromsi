@@ -1,6 +1,6 @@
 # Привет, дорогой друг!
 
-Я занимаюсь backend разработкой. Мое начало было на постоянных граблях и ни раз сталкивался с новичковыми проблемами на разных процедурных языках программирования. Я очень рад, что ты находишь на моей странице. Если нужно общение, то я всегда рад тебя видеть в [telegram group illuminatinc](https://t.me/illuminatinc).
+Я занимаюсь backend разработкой. Со своими друзьями общаюсь через [telegram group illuminatinc](https://t.me/illuminatinc).
 
 ## Мои работы в сети
 * [fromsi.net](https://fromsi.net) - моя сайт визитка [git-rep](https://github.com/FromSi/portfolio)
