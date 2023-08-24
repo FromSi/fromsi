@@ -2,7 +2,7 @@
 
 Я занимаюсь backend разработкой. Со своими друзьями общаюсь через [telegram group illuminatinc](https://t.me/illuminatinc).
 
-## Мои работы в сети
+## Мои работы
 * [fromsi.net](https://fromsi.net) - сайт визитка [git-rep](https://github.com/FromSi/portfolio)
 * [git-calendar](https://git-calendar.fromsi.net/gitlab/stanhu) - генерация gitlab календаря [git-rep](https://github.com/FromSi/git-calendar)
 * [fake-api](https://fake-api.fromsi.net) - fake сервер http api [git-rep](https://github.com/FromSi/fake_api)
