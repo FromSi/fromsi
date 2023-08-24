@@ -1,6 +1,6 @@
 # Welcome!
 
-I'm engaged in backend development. I communicate with my friends through the [Еelegram group "Illuminati Inc."](https://t.me/illuminatinc).
+I'm engaged in backend development. I communicate with my friends through the [Telegram group "Illuminati Inc"](https://t.me/illuminatinc).
 
 ## My works
 * [fromsi.net](https://fromsi.net) - a portfolio website [git-rep](https://github.com/FromSi/portfolio)
