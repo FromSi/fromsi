@@ -1,4 +1,4 @@
-# Привет, дорогой друг!
+# Добро пожаловать!
 
 Я занимаюсь backend разработкой. Со своими друзьями общаюсь через [telegram group illuminatinc](https://t.me/illuminatinc).
 
