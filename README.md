@@ -3,6 +3,7 @@
 I'm engaged in backend development. I communicate with my friends through the [Telegram group "Illuminati Inc"](https://t.me/illuminatinc).
 
 ## My Works
+* [example](https://github.com/FromSi/example/blob/master/api/swagger.yaml) - my vision of an architectural backend [git-rep](https://github.com/FromSi/example)
 * [fromsi.net](https://fromsi.net) - a portfolio website [git-rep](https://github.com/FromSi/portfolio)
 * [git-calendar](https://git-calendar.fromsi.net/gitlab/stanhu) - GitLab calendar generation [git-rep](https://github.com/FromSi/git-calendar)
 
