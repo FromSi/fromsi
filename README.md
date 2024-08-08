@@ -20,7 +20,7 @@ I'm engaged in backend development. I communicate with my friends through the [T
 * Tic-Tac-Toe - classic game implementation [git-rep](https://github.com/FromSi/TikTakToe#screenshots-ver20-java)
 * Checkers Game - game of checkers implementation [git-rep](https://github.com/SGQ-group/SGQ_Checkers#sgq_checkers)
 
-### Profile Views
+## Profile Views
 Counting of visitors to this page in this section started from August 9, 2024
 
 ![](https://count.getloli.com/get/@fromsi.github.readme)
