@@ -19,6 +19,7 @@ I'm engaged in backend development. I communicate with my friends through the [T
 * Transportation task Calculator - calculator for transportation problems [git-rep](https://github.com/FromSi/CollegeTransportTask/tree/master#readme)
 * Tic-Tac-Toe - classic game implementation [git-rep](https://github.com/FromSi/TikTakToe#screenshots-ver20-java)
 * Checkers Game - game of checkers implementation [git-rep](https://github.com/SGQ-group/SGQ_Checkers#sgq_checkers)
+* Tasmota MQTT And HTTP - reserch on controlling the reflashed SONOFF Basic R2 on Tasmota [git-rep](https://github.com/FromSi/tasmota_mqtt_and_http)
 
 ## Profile Views
 Counting of visitors to this page in this section started from August 9, 2024
