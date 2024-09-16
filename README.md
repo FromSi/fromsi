@@ -3,13 +3,14 @@
 I'm engaged in backend development. I communicate with my friends through the [Telegram group "Illuminati Inc"](https://t.me/illuminatinc).
 
 ## My Works
-* [example](https://github.com/FromSi/example/blob/master/api/swagger.yaml) - my vision of an architectural backend [git-rep](https://github.com/FromSi/example)
+* [MQTT Sonoff Basic R2](https://pkg.go.dev/github.com/fromsi/mqtt_sonoff_basic_r2) - communication with Sonoff Basic R2 [git-rep](https://github.com/FromSi/mqtt_sonoff_basic_r2/tree/master)
 * [fromsi.net](https://fromsi.net) - a portfolio website [git-rep](https://github.com/FromSi/portfolio)
 * [git-calendar](https://git-calendar.fromsi.net/gitlab/stanhu) - GitLab calendar generation [git-rep](https://github.com/FromSi/git-calendar)
 
 ## My Trash
 * Color Assistant - color combination tool [git-rep](https://github.com/FromSi/Color_Assistant#sreenshots)
-* Certificate Generate - online certificate generation [git-rep](https://github.com/FromSi/certificate-generate) 
+* Certificate Generate - online certificate generation [git-rep](https://github.com/FromSi/certificate-generate)
+* Example BackEnd - my vision of an architectural backend [git-rep](https://github.com/FromSi/example)
 * Fake Api - a fake HTTP API server [git-rep](https://github.com/FromSi/fake_api)
 * Street Tournaments - urban tournament organization [git-rep](https://github.com/FromSi/ABTAdmin#sreenshots)
 * Docker PHP Configurator - PHP configuration tool with Docker [git-rep](https://github.com/btn441/docker-npmc#readme)
