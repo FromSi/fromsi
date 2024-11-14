@@ -14,7 +14,6 @@ I'm engaged in backend development. I communicate with my friends through the [T
 * Color Assistant - color combination tool [git-rep](https://github.com/FromSi/Color_Assistant#sreenshots)
 * Certificate Generate - online certificate generation [git-rep](https://github.com/FromSi/certificate-generate#readme)
 * TG Reaction - sending reaction by regex via Telegram [git-rep](https://github.com/FromSi/tg_reaction#readme)
-* Example BackEnd - my vision of an architectural backend [git-rep](https://github.com/FromSi/example#readme)
 * StarWars Openbox Theme - openbox theme in StarWars style [git-rep](https://github.com/FromSi/openbox-theme-starwars#screenshots-en-d)
 * Street Tournaments - urban tournament organization [git-rep](https://github.com/FromSi/ABTAdmin#sreenshots)
 * Docker PHP Configurator - PHP configuration tool with Docker [git-rep](https://github.com/btn441/docker-npmc#readme)
@@ -24,6 +23,7 @@ I'm engaged in backend development. I communicate with my friends through the [T
 * Transportation task Calculator - calculator for transportation problems [git-rep](https://github.com/FromSi/CollegeTransportTask/tree/master#readme)
 * Tic-Tac-Toe - classic game implementation [git-rep](https://github.com/FromSi/TikTakToe#screenshots-ver20-java)
 * Checkers Game - game of checkers implementation [git-rep](https://github.com/SGQ-group/SGQ_Checkers#sgq_checkers)
+* Example Backend - my vision of an architectural backend [git-rep](https://github.com/FromSi/example#readme)
 
 ## Profile Views
 Counting of visitors to this page in this section started from August 9, 2024
