@@ -9,6 +9,7 @@ I'm engaged in backend development. I communicate with my friends through the [T
 * [TG Reaction](https://t.me/homyackkc) - sending reaction by regex via Telegram [git-rep](https://github.com/FromSi/tg_reaction#readme)
 
 ## My Templates
+* [Godot C# Modular](https://github.com/FromSi/godot-csharp-modular-template#why-use-it) - modular Godot + C# starter, clone it and ship features, not boilerplate [git-rep](https://github.com/FromSi/godot-csharp-modular-template#godot-c-modular-template)
 * [JWT OAuth SSO](https://github.com/FromSi/jwt-oauth-sso/blob/master/api/swagger.yaml) - a complete solution for handling authentication [git-rep](https://github.com/FromSi/jwt-oauth-sso#readme)
 
 ## My Trash
